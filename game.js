@@ -16,6 +16,6 @@ var wordBank = [
     "horrible bugs galore",
     "random words here",
     "coding"
-]
+];
 
-module.exports = gameWords
+module.exports = wordBank;
